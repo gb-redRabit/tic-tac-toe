@@ -9,4 +9,4 @@ Prosta gra w kólko i krzyzyk
 
 ## Demo
 
-https://grzbejta.github.io/tic-tac-toe/
+https://gb-redRabit.github.io/tic-tac-toe/
